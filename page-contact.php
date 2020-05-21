@@ -52,7 +52,7 @@ We look forward to learning more about you !</div>
                     <div class="info-details"><p>We are located in Herat
                             Come and have a nice cup of coffee!</p>
 
-                        <p>The Shahr-e-Naw Avenue, Fahim Super Market, New Market , Floor 2
+                        <p>The Shahr-e-Naw Avenue, Fahim Super Market, New Market , 2<sup>nd</sup> Floor
                             </p></div>
                 </div>
             </div>

@@ -144,9 +144,9 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="app-title">Wordpress Hosting</div>
-                                    <div class="app-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+                                    <div class="app-text">New feature from us to easily connect your site on best CMS platform (WordPress) just by ONE CLICK </div>
                                     <div class="app-link">
-                                        <a href="contact.html" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
+                                        <a href="https://t.me/rafiahadi" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
                                     </div>
                                 </div>
                             </div>
@@ -158,9 +158,9 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="app-title">Joomla Hosting</div>
-                                    <div class="app-text">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+                                    <div class="app-text">For your variety we also give more optional options to be much comfortable and have more freedom</div>
                                     <div class="app-link">
-                                        <a href="contact.html" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
+                                        <a href="https://t.me/rafiahadi" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
                                     </div>
                                 </div>
                             </div>
@@ -172,9 +172,9 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="app-title">Drupal Hosting</div>
-                                    <div class="app-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</div>
+                                    <div class="app-text">The newest CMS platform for our customers is available now so also for Drupal connecting , You can do it just by ONE CLICK</div>
                                     <div class="app-link">
-                                        <a href="contact.html" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
+                                        <a href="https://t.me/rafiahadi" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
                                     </div>
                                 </div>
                             </div>
@@ -186,9 +186,9 @@
                                 </div>
                                 <div class="col-md-7">
                                     <div class="app-title">Magento Hosting</div>
-                                    <div class="app-text">emo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, mo enim ipsam voluptatem quia voluptas sit.</div>
+                                    <div class="app-text">Also we add low usable CMS platform (Magento) for you to have freedom at your choices and test more services.</div>
                                     <div class="app-link">
-                                        <a href="contact.html" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
+                                        <a href="https://t.me/rafiahadi" class="ybtn ybtn-white ybtn-shadow">Learn more</a>
                                     </div>
                                 </div>
                             </div>

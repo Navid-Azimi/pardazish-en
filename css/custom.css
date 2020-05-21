@@ -173,3 +173,11 @@ ul.top-nav > li > a {
 .footer-menu-holder img {
     width: 250px;
 }
+@media (max-width: 340px) {
+    ul.top-nav{
+        margin-right: 61px;
+    }
+    #apps .apps-holder .app-icon-holder:after {
+        left: 86%;
+    }
+}

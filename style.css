@@ -5536,11 +5536,12 @@ svg.logo text {
 #apps .apps-holder .app-icon-holder:after {
     position: absolute;
     content: "";
-    top: -36px;
-    left: 50%;
+    top: -13px;
+    right: inherit;
+    left: 67%;
     margin-left: -56px;
-    width: 112px;
-    height: 112px;
+    width: 66px;
+    height: 66px;
     border-radius: 400px;
     background-color: transparent;
     -webkit-transition: all 0.3s ease;

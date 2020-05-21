@@ -16,7 +16,7 @@
                         <i class="fas fa-map-marker"></i>
                         <div>Afghanistan -Herat,<br>
                             Shahr-e-Naw Intersection - Fahim Super Market,<br>
-                            New Market - Floor 2.</div>
+                            New Market - 2<sup>nd</sup> Floor .</div>
                     </div>
                 </div>
             </div>

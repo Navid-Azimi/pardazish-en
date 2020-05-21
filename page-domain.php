@@ -49,7 +49,7 @@ creative on both sides of the “dot.”</div>
             <div class="col-sm-6 col-md-4">
                 <div class="domain-box d-color2">
                     <div class="title">.af</div>
-                    <div class="price">$10.7</div>
+                    <div class="price">$29.9</div>
                     <div class="details">With New Domains, you get to be
 creative on both sides of the “dot.”</div>
                     <div class="link"><a class="register-button" href="#">Register</a></div>
@@ -96,7 +96,7 @@ creative on both sides of the “dot.”</div>
                         </div>
                         <div class="row trow">
                             <div class="col-xs-2 td">.af</div>
-                            <div class="col-xs-2 td">$19.99</div>
+                            <div class="col-xs-2 td">$29.99</div>
                             <div class="col-xs-2 td">$9.99</div>
                             <div class="col-xs-2 td">Free</div>
                             <div class="col-xs-2 td">$9.99</div>
